@@ -57,16 +57,9 @@ A passionate, results-driven AI/ML engineering student and versatile full-stack 
   Intelligent clustering and ranking for automated resume screening.  
   [🔗 GitHub](https://github.com/Sasisundar2211)
 
-- 💬 **Real-Time Chat Application (WebSockets, JWT Auth)**  
-  Secure, scalable chat with modern authentication and real-time messaging.  
-  [🔗 GitHub](https://github.com/Sasisundar2211)
-
 - 🤖 **Professional Content Automation with N8n**  
   Automated LinkedIn/Notion workflows for content creators and professionals.  
   [🔗 GitHub](https://github.com/Sasisundar2211)
-
-- 📱 **Android Projects – Open Source Learning**  
-  [LibreTube](https://github.com/Sasisundar2211/) | OkHttp Implementation, Community Tutorials
 
 ---
 
@@ -113,10 +106,10 @@ A passionate, results-driven AI/ML engineering student and versatile full-stack 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sasisundar2211&show_icons=true&theme=react&count_private=true" height="170" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sasisundar2211&theme=react" height="170" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasisundar2211&theme=react&layout=compact" height="130"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasisundar2211&theme=react&layout=compact" height="130"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sasisundar2211&theme=react" height="170" alt="GitHub streak"/>
 </p>
 
 ---
