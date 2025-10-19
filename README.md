@@ -1,7 +1,7 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="SasiSundar2211/banner.png" alt="Bobbili Somanadh Vasudevara Sasi Sundar - AI/ML Engineer | Building Intelligent Systems" width="100%" />
-</p>
+  <!-- Custom Banner Image -->
+  <img src="https://raw.githubusercontent.com/Sasisundar2211/SasiSundar2211/main/banner.png" alt="Bobbili Somanadh Vasudevara Sasi Sundar - AI/ML Engineer | Building Intelligent Systems" width="100%" />
 
 <h1 align="center">🏆 Bobbili Somanadh Vasudevara Sasi Sundar (Sasi Sundar)</h1>
 <p align="center">
