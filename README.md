@@ -2,6 +2,7 @@
 <p align="center">
   <!-- Custom Banner Image -->
   <img src="https://raw.githubusercontent.com/Sasisundar2211/SasiSundar2211/main/banner.png" alt="Bobbili Somanadh Vasudevara Sasi Sundar - AI/ML Engineer | Building Intelligent Systems" width="100%" />
+</p>
 
 <h1 align="center">🏆 Bobbili Somanadh Vasudevara Sasi Sundar (Sasi Sundar)</h1>
 <p align="center">
@@ -53,13 +54,21 @@ A passionate, results-driven AI/ML engineering student and versatile full-stack 
 
 ## 💡 Featured Projects
 
-- 🧠 **Resume Screening System (NLP + Clustering)**  
-  Intelligent clustering and ranking for automated resume screening.  
-  [🔗 GitHub](https://github.com/Sasisundar2211)
+- 🧠 **AI-Resume_Ranking-app**  
+  Build and deploy an AI-powered resume ranking application for automating candidate screening using clustering and NLP.  
+  [🔗 GitHub](https://github.com/Sasisundar2211/AI-Resume_Ranking-app)
 
-- 🤖 **Professional Content Automation with N8n**  
-  Automated LinkedIn/Notion workflows for content creators and professionals.  
-  [🔗 GitHub](https://github.com/Sasisundar2211)
+- 🖥️ **Portfolio**  
+  A modern, responsive portfolio template for AI/ML developers and full-stack engineers. Features a clean design and project showcase.  
+  [🔗 GitHub](https://github.com/Sasisundar2211/Portfolio)
+
+- 🤖 **sample_multitool_agent**  
+  Multi-tool AI agent (Weather & Time Bot) powered by Google ADK & FastAPI. Delivers real-time weather and time updates with a conversational interface.  
+  [🔗 GitHub](https://github.com/Sasisundar2211/sample_multitool_agent)
+
+- 📰 **Fake_News_Detection**  
+  Machine learning project to identify and classify fake news articles, leveraging natural language processing and classification algorithms.  
+  [🔗 GitHub](https://github.com/Sasisundar2211/Fake_News_Detection)
 
 ---
 
