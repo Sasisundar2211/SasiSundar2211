@@ -95,7 +95,7 @@ Git, GitHub Actions, CI/CD, LangChain, Hugging Face, System Design, DSA, Agile, 
 
 - 🌐 **Personal Portfolio Website**  
   Responsive React.js portfolio deployed with CI/CD on Vercel.
-  [🔗 GitHub](https://github.com/Sasisundar2211/PersonalPortfolio)
+  [🔗 GitHub](https://github.com/Sasisundar2211/Portfolio)
 
 ---
 
