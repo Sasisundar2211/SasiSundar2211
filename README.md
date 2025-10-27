@@ -87,7 +87,7 @@ Git, GitHub Actions, CI/CD, LangChain, Hugging Face, System Design, DSA, Agile, 
 
 - 🤖 **Professional Content Automation with N8n**  
   Automated LinkedIn/Notion workflows for content creators and professionals.  
-  [🔗 GitHub](https://github.com/Sasisundar2211)
+  [🔗 GitHub](https://github.com/Sasisundar2211/n8n_Workflows)
 
 - 📰 **Fake News Detection Model**  
   NLP classification model achieving 92% accuracy on 20,000+ articles.
