@@ -1,159 +1,163 @@
-# Bobbili Somanadh Vasudevara Sasi Sundar (Sasi Sundar)
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sasisundar2211/SasiSundar2211/main/banner.png" alt="Sasi Sundar: AI/ML Engineer | Full-Stack Developer | Innovating at the Intersection of Data & Technology" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sasisundar2211/SasiSundar2211/main/banner.png" alt="BSV Sasi Sundar — Founder @ GIANT | Building FirmRunner" width="100%" />
 </p>
 
-<h1 align="center">🚀 AI/ML Engineer | Full-Stack Developer | Architecting Intelligent Solutions</h1>
+<h1 align="center">BSV Sasi Sundar</h1>
+
 <p align="center">
-  <b>Driving Innovation with Python, Machine Learning, and Scalable Web Technologies</b>
+  <strong>Founder @ GIANT &nbsp;·&nbsp; Building FirmRunner &nbsp;·&nbsp; AI/ML Engineer &nbsp;·&nbsp; B.Tech AIML 2027</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Artificial%20Intelligence-blue?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Machine%20Learning-red?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Full%20Stack%20Development-orange?style=flat-square&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Cloud%20Native-007ACC?style=flat-square&logo=azuredevops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Open%20Source%20Contributor-brightgreen?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://komarev.com/ghpvc/?username=Sasisundar2211&style=flat-square" alt="profile views"/>
-</p>
-
----
-
-## ✨ Vision & Expertise
-
-I am a dedicated and innovative AI/ML Engineer and Full-Stack Developer with a passion for transforming complex data into practical, intelligent solutions. My expertise lies in designing, developing, and deploying cutting-edge machine learning models and robust web applications. I thrive on leveraging Python, advanced ML frameworks, and cloud-native architectures to build scalable and impactful systems that address real-world challenges.
-
-My commitment to continuous learning and a growth mindset fuels my pursuit of excellence in every project, fostering collaborative environments where innovation flourishes.
-
----
-
-## 👨‍💻 About Me
-
-- **🎓 Education:** BTech in Artificial Intelligence & Machine Learning, PSCMR College of Engineering & Technology.
-- **💼 Core Competencies:** AI/ML Architecture, Python Development, Full-Stack & Mobile Development, MLOps, Cloud Deployment, System Design.
-- **🎯 Career Focus:** Contributing to leading technology firms (MAANG), pioneering AI/ML research, and driving open-source initiatives.
-
----
-
-## 🚀 Technical Arsenal
-
-### Programming Languages
-Python, JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3
-
-### AI & Machine Learning
-TensorFlow, PyTorch, Scikit-learn, OpenCV, Pandas, NumPy, NLP, Deep Learning (CNNs, RNNs), Transfer Learning, Reinforcement Learning, MLOps, LangChain, Hugging Face
-
-### Web & API Development
-FastAPI, Flask, Node.js, Express.js, REST APIs, Streamlit, React.js
-
-### Cloud & Databases
-Kubernetes, Google Cloud Platform (GCP), MongoDB, Firebase, SQL, Microservices Architecture, Docker
-
-### Tools & Methodologies
-Git, GitHub Actions, CI/CD, System Design, Data Structures & Algorithms (DSA), Agile, Object-Oriented Programming (OOP), Operating Systems, Database Management Systems (DBMS)
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-f9d71c?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <a href="https://www.linkedin.com/in/bsv-sasi-sundar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://sasisundar.me/">
+    <img src="https://img.shields.io/badge/Portfolio-00C896?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:sasisundhar2211@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Sasisundar2211&style=flat-square&color=00C896" alt="profile views"/>
 </p>
 
 ---
 
-## 💡 Featured Projects
+## What I Build
 
-- 🧠 **Intelligent Resume Screening System (NLP & Clustering)**
-  Developed an AI-powered system for intelligent resume clustering and ranking, significantly streamlining recruitment processes.
-  [🔗 GitHub](https://github.com/Sasisundar2211/AI-Resume_Ranking-app)
+Most AI tools assist people. I build AI that replaces the work entirely.
 
-- 🤖 **Professional Content Automation with N8n**
-  Engineered automated workflows for LinkedIn and Notion, enhancing content creation and professional outreach efficiency.
-  [🔗 GitHub](https://github.com/Sasisundar2211/n8n_Workflows)
+I am the Founder of **GIANT** and creator of **FirmRunner** — an AI agent suite that eliminates the five most expensive non-billable operations inside small accounting firms: client intake, document collection, deadline reminders, invoice follow-up, and monthly reporting.
 
-- 📰 **High-Accuracy Fake News Detection Model**
-  Built an NLP classification model achieving 92% accuracy on a dataset of over 20,000 articles, combating misinformation.
-  [🔗 GitHub](https://github.com/Sasisundar2211/Fake_News_Detection)
+A firm owner answers 10 questions. FirmRunner deploys a configured AI operations stack. No API keys. No workflow builders. No technical staff required.
 
-- 🌐 **Modern Portfolio Website (React.js & CI/CD)**
-  Designed and deployed a responsive React.js portfolio website with integrated CI/CD pipelines on Vercel, showcasing development expertise.
-  [🔗 GitHub](https://github.com/Sasisundar2211/Portfolio)
+Outside GIANT, I build and ship end-to-end AI systems: LLM pipelines, agentic reasoning engines, multi-agent architectures, and production inference APIs. 15+ systems deployed. All containerized. CI/CD from day one.
 
 ---
 
-## 🏆 Professional Highlights & Achievements
+## GIANT · FirmRunner
 
-- **Academic Excellence:** Comprehensive coursework in Operating Systems, Networks, Information Retrieval, and Software Engineering, foundational to robust system development.
-- **Hackathon Success:** Consistently developed award-winning strategies and market-ready AI solutions in competitive hackathons.
-- **Community Engagement:** Active contributor to open-source projects on GitHub and Stack Overflow, fostering knowledge sharing and collaborative development.
-- **Mentorship & Leadership:** Passionate about both seeking and providing mentorship, and actively involved in technical blogging to share insights and guide emerging talent.
+> **The AI operations layer for professional service SMBs.**
+
+| Agent | What it does | Time recovered |
+|---|---|---|
+| Intake Agent | Collects client info, creates file, sends welcome sequence | 4–8 hrs/client |
+| Document Agent | Chases missing docs on 3-stage automated cadence | 6–12 hrs/month |
+| Deadline Agent | Sends 30d / 7d / 1d filing reminders | 3–5 hrs/season |
+| Billing Agent | Follows up on unpaid invoices at Day 7, 14, 30 | 4–8 hrs/month |
+| Report Agent | Generates plain-English monthly summaries per client | 5–10 hrs/month |
+
+**Stack:** Claude API · Make.com · Airtable · Gmail API · Python · FastAPI  
+**Status:** Customer discovery · Beta Q2 2026 · US-first, India-second  
+**Market:** $194B SMB AI market · 44,000+ CPA firms under 10 staff in the US alone
 
 ---
 
-## 🌱 Personal Interests & Values
+## Featured Projects
 
-- **Innovation Enthusiast:** Actively building open-source solutions and creating technical tutorials to empower the developer community.
-- **Future Technologies:** Keen interest in exploring the transformative potential of Blockchain, Augmented Reality/Virtual Reality (AR/VR), and the Internet of Things (IoT) for social impact.
-- **Impact-Driven:** Dedicated to leveraging technology for positive change, particularly in climate tech, accessibility, and educational innovation.
-- **Continuous Growth:** Committed to lifelong learning, including personal branding, MAANG interview preparation, cloud computing advancements, and hackathon strategies.
+### ProcureGuard — Autonomous Procurement Integrity System
+Multi-agent system powered by Gemini 1.5 Flash. Detects price drift in purchase orders, enforces contract compliance, and automates vendor communication autonomously.  
+Full-stack: FastAPI backend · React dashboard · Docker containerized · CI/CD via GitHub Actions · Google Cloud Run ready.  
+`Python` `TypeScript` `FastAPI` `React` `Gemini` `Agentic AI` `Docker`  
+[View Repository](https://github.com/Sasisundar2211/Procurement_Agent)
 
 ---
 
-## 🤝 Let’s Connect!
+### Multitool LLM Agent — Weather & Time Reasoning Bot
+Multi-tool AI agent built on Google ADK and FastAPI. Chains tool calls, function-calling workflows, and multi-step reasoning in a production API. Reusable testbed for agentic behavior experiments.  
+`Python` `Google ADK` `FastAPI` `Agentic AI` `Tool Use`  
+[View Repository](https://github.com/Sasisundar2211/sample_multitool_agent)
+
+---
+
+### AI Resume Ranking System
+NLP pipeline using TF-IDF features and ML classifiers for recruiter-grade resume screening. Deployed as a Flask inference API for external integration.  
+`Python` `scikit-learn` `NLP` `TF-IDF` `Flask` `REST API`  
+[View Repository](https://github.com/Sasisundar2211/AI-Resume_Ranking-app)
+
+---
+
+### User Profiling & Segmentation
+ML-driven behavioral segmentation system. Clusters users into actionable profiles using unsupervised learning techniques.  
+`Python` `scikit-learn` `Clustering` `Pandas` `NumPy`  
+[View Repository](https://github.com/Sasisundar2211/User_Profiling_Segmentation)
+
+---
+
+### Professional Content Automation — n8n Workflows
+Automated LinkedIn and Notion content workflows for professionals using n8n automation. Reduces manual publishing from hours to minutes.  
+`n8n` `Automation` `LinkedIn API` `Notion API` `Workflow Engineering`  
+[View Repository](https://github.com/Sasisundar2211/n8n_Workflows)
+
+---
+
+### Fake News Detection — 92% Accuracy NLP Classifier
+NLP classification model trained on 20,000+ articles. Achieves 92% accuracy distinguishing real from fabricated news content.  
+`Python` `NLP` `scikit-learn` `Text Classification`  
+[View Repository](https://github.com/Sasisundar2211/Fake_News_Detection)
+
+---
+
+## Technical Stack
+
+```
+AI & Agents       Agentic AI · LLMs · GenAI · Google ADK · LangChain · Hugging Face
+                  PyTorch · TensorFlow · scikit-learn · NLP · Computer Vision
+
+Backend           Python · FastAPI · Flask · Node.js · Express.js · REST APIs
+
+Frontend          React.js · TypeScript · JavaScript · HTML · CSS
+
+Data              NumPy · Pandas · PostgreSQL · MongoDB · Firebase · SQL
+
+Infrastructure    Docker · Kubernetes · GitHub Actions · CI/CD · GCP · AWS · MLOps
+
+Tools             Git · Linux · System Design · DSA
+```
+
+---
+
+## Experience
+
+**Founder & CEO — GIANT** *(December 2025 – Present)*  
+Building FirmRunner: AI agent suite for accounting firm operations. Full product ownership — architecture, GTM, customer discovery, investor narrative.
+
+**AI/ML Intern — BITS Pilani, Hyderabad Campus** *(May – July 2025)*  
+Built and deployed end-to-end ML models under senior academic mentorship. Python · NumPy · scikit-learn.
+
+**Undergraduate Research Contributor — P.B. Siddhartha College** *(January – May 2025)*  
+Co-authored applied AI/ML academic research paper. Technical writing and literature analysis.
+
+**AI Intern — TechSaksham, Microsoft & SAP via AICTE** *(February – March 2025)*  
+Nationally selected. Built and presented AI prototype to Microsoft and SAP domain experts.
+
+**Data Analyst Simulation — Deloitte** *(February 2025)*  
+Tableau dashboards and Excel-based forensic data classification. Big 4 professional services context.
+
+---
+
+## Education
+
+**B.Tech — Artificial Intelligence and Machine Learning**  
+Potti Sreeramulu Engineering College (PSCMR) · September 2023 – July 2027 · CGPA 8.2
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sasisundar2211"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Sasisundar2211"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://sasisundar.me/"><img src="https://img.shields.io/badge/Portfolio-24292e?style=flat-square&logo=about-dot-me&logoColor=white"/></a>
-  <a href="https://gitlab.com/Sasisundar2211"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/26424639/sasi-sundhar"><img src="https://img.shields.io/badge/Stack%20Overflow-F48024?style=flat-square&logo=stackoverflow&logoColor=white"/></a>
-  <a href="https://x.com/SaenCzar"><img src="https://img.shields.io/badge/Twitter/X-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
-  <a href="https://t.me/sfforeverus"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a>
-  <a href="https://open.spotify.com/user/31cmxoqo5zvawf52nxfp7pmxnzu4"><img src="https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white"/></a>
-  <a href="https://bsky.app/profile/saen0926.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0A0A0A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRTlFMUUzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZD0yTTggMUM0LjEzIDEgMSA0LjEzIDEgOHMzLjEzIDcgNyA3IDctMy4xMyA3LTdTMTEuODcgMSA4IDF6bTAgM2ExIDAgMCAwIDAgMiAxIDAgMCAwIDAgLTJ6Ii8+PC9zdmc+" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sasisundar2211&show_icons=true&theme=react&count_private=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasisundar2211&theme=react&layout=compact&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <b>Let’s build, learn, and innovate together! Open to collaborations, mentorship, and impactful opportunities.</b>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sasisundar2211&show_icons=true&theme=react&count_private=true" height="170" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasisundar2211&theme=react&layout=compact" height="130"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sasisundar2211&theme=react" height="170" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sasisundar2211&theme=react&hide_border=true" height="160"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>“The best way to predict the future is to invent it.”</i>
-  <br/>
-  <b>— Sasi Sundar</b>
+  <a href="https://www.linkedin.com/in/bsv-sasi-sundar">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://sasisundar.me/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="mailto:sasisundhar2211@gmail.com">sasisundhar2211@gmail.com</a>
 </p>
