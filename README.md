@@ -31,7 +31,7 @@ I am the Founder of **GIANT** and creator of **FirmRunner** — an AI agent suit
 
 A firm owner answers 10 questions. FirmRunner deploys a configured AI operations stack. No API keys. No workflow builders. No technical staff required.
 
-Outside GIANT, I build and ship end-to-end AI systems: LLM pipelines, agentic reasoning engines, multi-agent architectures, and production inference APIs. 15+ systems deployed. All containerized. CI/CD from day one.
+Outside GIANT, I build and ship end-to-end AI systems: LLM pipelines, agentic reasoning engines, multi-agent architectures, and production inference APIs. 28 projects contributed. All containerized. CI/CD from day one.
 
 ---
 
