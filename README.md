@@ -150,10 +150,6 @@ Potti Sreeramulu Engineering College (PSCMR) · September 2023 – July 2027 · 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasisundar2211&theme=react&layout=compact&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sasisundar2211&theme=react&hide_border=true" height="160"/>
-</p>
-
 ---
 
 <p align="center">
