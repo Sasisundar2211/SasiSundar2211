@@ -146,8 +146,16 @@ Potti Sreeramulu Engineering College (PSCMR) · September 2023 – July 2027 · 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sasisundar2211&show_icons=true&theme=react&count_private=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasisundar2211&theme=react&layout=compact&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sasisundar2211&show_icons=true&theme=react&count_private=true&include_all_commits=true&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasisundar2211&theme=react&layout=compact&hide_border=true&langs_count=8" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sasisundar2211&theme=react&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sasisundar2211&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity Graph" width="100%"/>
 </p>
 
 ---
