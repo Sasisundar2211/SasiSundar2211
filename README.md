@@ -36,13 +36,13 @@ A firm owner answers 10 questions. FirmRunner deploys a configured AI operations
 
 Outside GIANT, I build and ship end-to-end AI systems: LLM pipelines, agentic reasoning engines, multi-agent architectures, and production inference APIs. 15+ systems deployed. All containerized. CI/CD from day one.
 
-I also conduct applied AI/ML research. Co-authored a research paper on AI techniques and completed an AI/ML internship at BITS Pilani, Hyderabad — one of India’s premier engineering institutions.
+I also conduct applied AI/ML research. Co-authored a research paper on AI techniques during my undergraduate years and completed an AI/ML internship at BITS Pilani, Hyderabad — one of India's premier engineering institutions.
 
 ---
 
 ## GIANT · FirmRunner
 
-> **The AI operations layer for small accounting firms.**
+> **The AI operations layer for small accounting firms.**  
 > [firmrunner.page](https://www.firmrunner.page/)
 
 | Agent | What it does |
@@ -53,8 +53,8 @@ I also conduct applied AI/ML research. Co-authored a research paper on AI techni
 | Billing Agent | Follows up on unpaid invoices at Day 7, 14, 30 |
 | Report Agent | Generates plain-English monthly summaries per client |
 
-**Stack:** Python · FastAPI · n8n · Supabase · Vercel · Gemini Flash · Resend
-**Status:** Pre-seed · Customer discovery · US-first, India-second
+**Stack:** Python · FastAPI · n8n · Supabase · Vercel · Gemini Flash · Resend  
+**Status:** Pre-seed · Customer discovery · US-first, India-second  
 **Market:** $194.6B SMB AI market (Credence Research, 2024) · 49% of SMBs have not adopted AI (OECD, 2025)
 
 ---
@@ -62,43 +62,43 @@ I also conduct applied AI/ML research. Co-authored a research paper on AI techni
 ## Featured Projects
 
 ### Procurement Agent System
-LLM-driven pipeline for pricing-anomaly detection and structured contract field extraction from raw procurement documents. Standardizes outputs across contract samples and reduces manual review effort.
-`Python` `LLMs` `NLP` `FastAPI` `Docker` `CI/CD`
+LLM-driven pipeline for pricing-anomaly detection and structured contract field extraction from raw procurement documents. Standardizes outputs across contract samples and reduces manual review effort for recurring document types.  
+`Python` `LLMs` `NLP` `FastAPI` `Docker` `CI/CD`  
 [View Repository](https://github.com/Sasisundar2211/Procurement_Agent)
 
 ---
 
 ### Multitool LLM Agent
-API-integrated agent that chains tools, function calls, and multi-step reasoning steps via FastAPI. Reusable testbed for agentic behavior and tool-use experiments. Directly informs FirmRunner’s agent architecture.
-`Python` `FastAPI` `LangChain` `Agentic AI` `Tool Use`
+API-integrated agent that chains tools, function calls, and multi-step reasoning steps via FastAPI. Reusable testbed for agentic behavior and tool-use experiments. Directly informs FirmRunner's agent architecture.  
+`Python` `FastAPI` `LangChain` `Agentic AI` `Tool Use`  
 [View Repository](https://github.com/Sasisundar2211/sample_multitool_agent)
 
 ---
 
 ### AI Resume Ranking System
-NLP pipeline using TF-IDF features and ML classifiers for recruiter-grade resume screening. Increased ranking consistency. Deployed as a Flask inference API for external integration.
-`Python` `scikit-learn` `NLP` `TF-IDF` `Flask` `REST API`
+NLP pipeline using TF-IDF features and ML classifiers for recruiter-grade resume screening. Increased ranking consistency. Deployed as a Flask inference API for external integration.  
+`Python` `scikit-learn` `NLP` `TF-IDF` `Flask` `REST API`  
 [View Repository](https://github.com/Sasisundar2211/AI-Resume_Ranking-app)
 
 ---
 
 ### User Profiling & Segmentation
-ML-driven behavioral segmentation system. Clusters users into actionable profiles using feature engineering and unsupervised learning on 1,000-scale datasets.
-`Python` `scikit-learn` `Clustering` `Pandas` `NumPy`
+ML-driven behavioral segmentation system. Clusters users into actionable profiles using feature engineering and unsupervised learning on 1,000-scale datasets.  
+`Python` `scikit-learn` `Clustering` `Pandas` `NumPy`  
 [View Repository](https://github.com/Sasisundar2211/User_Profiling_Segmentation)
 
 ---
 
 ### Professional Content Automation — n8n Workflows
-Automated LinkedIn and Notion content workflows built on n8n. Reduces manual publishing overhead to minutes. Part of the zero-cost infrastructure stack used in GIANT.
-`n8n` `Automation` `LinkedIn API` `Notion API` `Workflow Engineering`
+Automated LinkedIn and Notion content workflows built on n8n. Reduces manual publishing overhead to minutes. Part of the zero-cost infrastructure stack used in GIANT.  
+`n8n` `Automation` `LinkedIn API` `Notion API` `Workflow Engineering`  
 [View Repository](https://github.com/Sasisundar2211/n8n_Workflows)
 
 ---
 
 ### Fake News Detection — NLP Classifier
-NLP classification model trained on 20,000+ articles to distinguish real from fabricated news content.
-`Python` `NLP` `scikit-learn` `Text Classification`
+NLP classification model trained on 20,000+ articles to distinguish real from fabricated news content. TF-IDF features with ML classifiers.  
+`Python` `NLP` `scikit-learn` `Text Classification`  
 [View Repository](https://github.com/Sasisundar2211/Fake_News_Detection)
 
 ---
@@ -127,33 +127,33 @@ Tools             Git · Linux · System Design
 
 ## Experience
 
-**Founder — GIANT / FirmRunner** *(December 2025 – Present)*
+**Founder — GIANT / FirmRunner** *(December 2025 – Present)*  
 Building FirmRunner from zero. Full ownership of product architecture, customer discovery, technical decisions, and content strategy. Identified $90,000/year per-firm inefficiency through direct conversations with small accounting firm owners.
 
-**AI/ML Intern — BITS Pilani, Hyderabad Campus** *(May – July 2025)*
+**AI/ML Intern — BITS Pilani, Hyderabad Campus** *(May – July 2025)*  
 Competitively selected. Built and optimized end-to-end ML models under senior academic and industry mentorship. Applied systematic EDA, feature engineering, and cross-validation for production-equivalent tasks.
 
-**Undergraduate Research Contributor — P.B. Siddhartha College** *(January – May 2025)*
+**Undergraduate Research Contributor — P.B. Siddhartha College** *(January – May 2025)*  
 Co-authored applied AI/ML academic research paper. Led literature analysis, technical writing, and structured methodology sections.
 
-**AI Intern — TechSaksham, Microsoft & SAP via AICTE** *(February – March 2025)*
+**AI Intern — TechSaksham, Microsoft & SAP via AICTE** *(February – March 2025)*  
 Nationally selected. Designed system architecture, built and debugged an AI prototype, and presented findings to domain experts from Microsoft and SAP.
 
-**Data Analyst Simulation — Deloitte** *(February 2025)*
+**Data Analyst Simulation — Deloitte** *(February 2025)*  
 Built Tableau dashboards and applied Excel-based classification for forensic data analysis in a Big 4 professional services context.
 
-**Independent AI/ML Developer** *(2023 – Present)*
+**Independent AI/ML Developer** *(2023 – Present)*  
 Delivered 15+ ML/LLM systems measured by successful automation and analytics runs. End-to-end Python pipelines integrating LLMs, RAG, agents, and MCP. Dockerized environments with CI/CD. Led a 3-member GenAI prototyping group. Contributed to 17+ open-source repositories.
 
-**Full-Stack Development Trainee — MentorKart** *(June – December 2023)*
-Completed intensive full-stack training: HTML, CSS, JavaScript, Node.js, Express, MongoDB, React. Built and deployed RESTful API-connected projects. Foundational skills now applied in GIANT’s product stack.
+**Full-Stack Development Trainee — MentorKart** *(June – December 2023)*  
+Completed intensive full-stack training: HTML, CSS, JavaScript, Node.js, Express, MongoDB, React. Built and deployed RESTful API-connected projects. Foundational skills now applied in GIANT's product stack.
 
 ---
 
 ## Education
 
-**B.Tech — Artificial Intelligence and Machine Learning**
-Potti Sreeramulu Engineering College (PSCMR) · September 2023 – July 2027 · CGPA 8.2
+**B.Tech — Artificial Intelligence and Machine Learning**  
+Potti Sreeramulu Engineering College (PSCMR) · September 2023 – July 2027 · CGPA 8.2  
 Coursework: Machine Learning, Deep Learning, NLP, Data Science, Software Engineering
 
 ---
