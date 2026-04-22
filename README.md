@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sasisundar2211/SasiSundar2211/main/banner.png" alt="BSV Sasi Sundar — Founder @ GIANT | Building FirmRunner" width="100%" />
-</p>
-
 <h1 align="center">BSV Sasi Sundar</h1>
 
 <p align="center">
@@ -12,7 +8,7 @@
   <a href="https://www.linkedin.com/in/bsv-sasi-sundar">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://sasisundar.me/">
+  <a href="https://firmrunner.page/">
     <img src="https://img.shields.io/badge/Portfolio-00C896?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.firmrunner.page/">
@@ -28,15 +24,7 @@
 
 ## What I Build
 
-Most AI tools assist people. I build AI that replaces the work entirely.
-
-I am the Founder of **GIANT** and creator of **FirmRunner** — an AI agent suite that eliminates the five most expensive non-billable operations inside small accounting firms: client intake, document collection, deadline tracking, invoice follow-up, and monthly reporting.
-
-A firm owner answers 10 questions. FirmRunner deploys a configured AI operations stack. No API keys. No workflow builders. No technical staff required. Pre-seed. US-first.
-
-Outside GIANT, I build and ship end-to-end AI systems: LLM pipelines, agentic reasoning engines, multi-agent architectures, and production inference APIs. 15+ systems deployed. All containerized. CI/CD from day one.
-
-I also conduct applied AI/ML research. Co-authored a research paper on AI techniques during my undergraduate years and completed an AI/ML internship at BITS Pilani, Hyderabad — one of India's premier engineering institutions.
+I build FirmRunner, 5 AI agents that automate document intake, billing follow-ups, deadline tracking, and client communication for 2-20 person US accounting firms. A firm answers 10 questions and has a working AI ops stack in minutes. Built on Python, FastAPI, n8n, Supabase, Vercel, and Gemini Flash. Pre-seed, building in public since December 2025.
 
 ---
 
@@ -75,20 +63,6 @@ API-integrated agent that chains tools, function calls, and multi-step reasoning
 
 ---
 
-### AI Resume Ranking System
-NLP pipeline using TF-IDF features and ML classifiers for recruiter-grade resume screening. Increased ranking consistency. Deployed as a Flask inference API for external integration.  
-`Python` `scikit-learn` `NLP` `TF-IDF` `Flask` `REST API`  
-[View Repository](https://github.com/Sasisundar2211/AI-Resume_Ranking-app)
-
----
-
-### User Profiling & Segmentation
-ML-driven behavioral segmentation system. Clusters users into actionable profiles using feature engineering and unsupervised learning on 1,000-scale datasets.  
-`Python` `scikit-learn` `Clustering` `Pandas` `NumPy`  
-[View Repository](https://github.com/Sasisundar2211/User_Profiling_Segmentation)
-
----
-
 ### Professional Content Automation — n8n Workflows
 Automated LinkedIn and Notion content workflows built on n8n. Reduces manual publishing overhead to minutes. Part of the zero-cost infrastructure stack used in GIANT.  
 `n8n` `Automation` `LinkedIn API` `Notion API` `Workflow Engineering`  
@@ -96,14 +70,9 @@ Automated LinkedIn and Notion content workflows built on n8n. Reduces manual pub
 
 ---
 
-### Fake News Detection — NLP Classifier
-NLP classification model trained on 20,000+ articles to distinguish real from fabricated news content. TF-IDF features with ML classifiers.  
-`Python` `NLP` `scikit-learn` `Text Classification`  
-[View Repository](https://github.com/Sasisundar2211/Fake_News_Detection)
-
----
-
 ## Technical Stack
+
+If you run a US accounting firm and want to see FirmRunner in action: [firmrunner.page](https://firmrunner.page). If you are hiring for AIML engineering internships: sasisundhar2211@gmail.com.
 
 ```
 AI & Agents       Agentic AI · LLMs · Generative AI · LangChain · Prompt Engineering
@@ -182,7 +151,6 @@ Coursework: Machine Learning, Deep Learning, NLP, Data Science, Software Enginee
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bsv-sasi-sundar">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://sasisundar.me/">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.firmrunner.page/">FirmRunner</a> &nbsp;·&nbsp;
+  <a href="https://firmrunner.page/">FirmRunner</a> &nbsp;·&nbsp;
   <a href="mailto:sasisundhar2211@gmail.com">sasisundhar2211@gmail.com</a>
 </p>
