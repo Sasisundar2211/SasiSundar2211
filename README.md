@@ -47,29 +47,6 @@ I build systems that:
 
 ---
 
-## FirmRunner (Applied System)
-
-> AI agents for accounting workflows  
-
-Built 5 agents that run end-to-end operations for small firms.
-
-**Measured impact:**
-- Manual follow-up: 3 hours → 25 minutes  
-- Missed deadlines reduced via automated reminders  
-- Billing follow-ups executed at fixed intervals  
-
-| Agent | Function |
-|------|--------|
-| Intake | Captures client data and triggers workflow |
-| Document | Tracks and follows up missing files |
-| Deadline | Sends timed reminders |
-| Billing | Executes payment follow-ups |
-| Reporting | Generates summaries |
-
-**Stack:** Python · FastAPI · n8n · Supabase · Vercel  
-
----
-
 ## Proof of Work
 
 ### Procurement Agent System
@@ -181,5 +158,4 @@ Or continue debugging blindly.
 ## Links
 
 - GitHub: https://github.com/Sasisundar2211  
-- Product: https://firmrunner.page  
 - Email: sasisundhar2211@gmail.com  
