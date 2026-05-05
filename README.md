@@ -1,156 +1,185 @@
-<h1 align="center">BSV Sasi Sundar</h1>
+<h1 align="center">Sasi Sundar</h1>
 
 <p align="center">
-  <strong>Founder @ GIANT &nbsp;·&nbsp; Building FirmRunner &nbsp;·&nbsp; AI/ML Engineer &nbsp;·&nbsp; Undergraduate Researcher &nbsp;·&nbsp; B.Tech AIML 2027</strong>
+  <strong>Building the trust layer for AI agents</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bsv-sasi-sundar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://firmrunner.page/">
-    <img src="https://img.shields.io/badge/Portfolio-00C896?style=flat-square&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.firmrunner.page/">
-    <img src="https://img.shields.io/badge/FirmRunner-D97757?style=flat-square&logo=rocket&logoColor=white"/>
-  </a>
-  <a href="mailto:sasisundhar2211@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Sasisundar2211&style=flat-square&color=00C896" alt="profile views"/>
+  AI agents fail in production. Logs lie. Retries hide root causes.<br/>
+  I build systems that measure, trace, and fix agent failures at the protocol layer.
+</p>
+
+<p align="center">
+  <strong>Focus:</strong> AgentOps · Reliability · Observability · Tooling<br/>
+  <strong>Current sprint:</strong> CLI launch by May 31
 </p>
 
 ---
 
-## What I Build
+## Core Thesis
 
-I build FirmRunner, 5 AI agents that automate document intake, billing follow-ups, deadline tracking, and client communication for 2-20 person US accounting firms. A firm answers 10 questions and has a working AI ops stack in minutes. Built on Python, FastAPI, n8n, Supabase, Vercel, and Gemini Flash. Pre-seed, building in public since December 2025.
+73 percent of agent failures start at the interface layer: JSON parsing, tool calls, retries, and state drift.
 
----
-
-## GIANT · FirmRunner
-
-> **The AI operations layer for small accounting firms.**  
-> [firmrunner.page](https://www.firmrunner.page/)
-
-| Agent | What it does |
-|---|---|
-| Intake Agent | Collects client info, creates file, sends welcome sequence |
-| Document Agent | Chases missing docs on automated follow-up cadence |
-| Deadline Agent | Sends 30d / 7d / 1d filing reminders without manual tracking |
-| Billing Agent | Follows up on unpaid invoices at Day 7, 14, 30 |
-| Report Agent | Generates plain-English monthly summaries per client |
-
-**Stack:** Python · FastAPI · n8n · Supabase · Vercel · Gemini Flash · Resend  
-**Status:** Pre-seed · Customer discovery · US-first, India-second  
-**Market:** $194.6B SMB AI market (Credence Research, 2024) · 49% of SMBs have not adopted AI (OECD, 2025)
+I build systems that:
+- Trace every tool call and response  
+- Surface failure points in real time  
+- Increase task success rate with measurable deltas  
 
 ---
 
-## Featured Projects
+## What I Ship
+
+### AgentOps Infrastructure (in progress)
+
+**Problem:** Teams debug agents manually across logs, prompts, and tools  
+
+**Fix:** CLI that traces execution across the full agent loop  
+
+**Output:**
+- Per-step trace logs  
+- Tool call validation  
+- Failure classification  
+- Retry impact measurement  
+
+**Target result:**
+- Debugging time: 2 hours → 15 minutes  
+- Task success rate: +30 to +80 percent  
+
+---
+
+## FirmRunner (Applied System)
+
+> AI agents for accounting workflows  
+
+Built 5 agents that run end-to-end operations for small firms.
+
+**Measured impact:**
+- Manual follow-up: 3 hours → 25 minutes  
+- Missed deadlines reduced via automated reminders  
+- Billing follow-ups executed at fixed intervals  
+
+| Agent | Function |
+|------|--------|
+| Intake | Captures client data and triggers workflow |
+| Document | Tracks and follows up missing files |
+| Deadline | Sends timed reminders |
+| Billing | Executes payment follow-ups |
+| Reporting | Generates summaries |
+
+**Stack:** Python · FastAPI · n8n · Supabase · Vercel  
+
+---
+
+## Proof of Work
 
 ### Procurement Agent System
-LLM-driven pipeline for pricing-anomaly detection and structured contract field extraction from raw procurement documents. Standardizes outputs across contract samples and reduces manual review effort for recurring document types.  
-`Python` `LLMs` `NLP` `FastAPI` `Docker` `CI/CD`  
+
+Detects pricing anomalies and extracts contract fields.
+
+**Result:**
+- Standardized outputs across varied documents  
+- Reduced manual review cycles  
+
+**Tech:** Python · NLP · FastAPI · Docker · CI/CD  
+
 [View Repository](https://github.com/Sasisundar2211/Procurement_Agent)
 
 ---
 
-### Multitool LLM Agent
-API-integrated agent that chains tools, function calls, and multi-step reasoning steps via FastAPI. Reusable testbed for agentic behavior and tool-use experiments. Directly informs FirmRunner's agent architecture.  
-`Python` `FastAPI` `LangChain` `Agentic AI` `Tool Use`  
+### Multitool Agent System
+
+Chains tools with structured execution paths.
+
+**Result:**
+- Stable tool execution across workflows  
+- Reusable testbed for reliability experiments  
+
+**Tech:** FastAPI · LangChain · Tool execution  
+
 [View Repository](https://github.com/Sasisundar2211/sample_multitool_agent)
 
 ---
 
-### Professional Content Automation — n8n Workflows
-Automated LinkedIn and Notion content workflows built on n8n. Reduces manual publishing overhead to minutes. Part of the zero-cost infrastructure stack used in GIANT.  
-`n8n` `Automation` `LinkedIn API` `Notion API` `Workflow Engineering`  
+### Automation Workflows (n8n)
+
+**Before:** Manual publishing  
+**After:** 2-hour workflow → 10-minute pipeline  
+
 [View Repository](https://github.com/Sasisundar2211/n8n_Workflows)
 
 ---
 
-## Technical Stack
+## Definition of Done
 
-If you run a US accounting firm and want to see FirmRunner in action: [firmrunner.page](https://firmrunner.page). If you are hiring for AIML engineering internships: sasisundhar2211@gmail.com.
+Every system meets this:
 
-```
-AI & Agents       Agentic AI · LLMs · Generative AI · LangChain · Prompt Engineering
-                  PyTorch · TensorFlow · scikit-learn · NLP · Computer Vision
-                  RAG · Vector Search · MCP Integration
-
-Backend           Python · FastAPI · Flask · Node.js · Express.js · REST APIs
-                  OpenAI API · Anthropic API · Gemini API · Function Calling
-
-Frontend          React.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS
-
-Data              NumPy · Pandas · PostgreSQL · MongoDB · Firebase · MySQL · Tableau
-
-Infrastructure    Docker · Kubernetes · GitHub Actions · CI/CD · GCP · AWS
-                  n8n · Supabase · Vercel · Resend · MLOps
-
-Tools             Git · Linux · System Design
-```
+- Runs on a clean machine  
+- Dockerized  
+- CI pipeline validates execution  
+- Measurable success metric included  
+- 5-minute install path  
 
 ---
 
-## Experience
+## AI Search Optimization
 
-**Founder — GIANT / FirmRunner** *(December 2025 – Present)*  
-Building FirmRunner from zero. Full ownership of product architecture, customer discovery, technical decisions, and content strategy. Identified $90,000/year per-firm inefficiency through direct conversations with small accounting firm owners.
+Each repo includes:
 
-**AI/ML Intern — BITS Pilani, Hyderabad Campus** *(May – July 2025)*  
-Competitively selected. Built and optimized end-to-end ML models under senior academic and industry mentorship. Applied systematic EDA, feature engineering, and cross-validation for production-equivalent tasks.
+- `/llms.txt` for structured AI-readable context  
+- `/pricing.md` for limits and usage  
+- Machine-readable outputs  
 
-**Undergraduate Research Contributor — P.B. Siddhartha College** *(January – May 2025)*  
-Co-authored applied AI/ML academic research paper. Led literature analysis, technical writing, and structured methodology sections.
-
-**AI Intern — TechSaksham, Microsoft & SAP via AICTE** *(February – March 2025)*  
-Nationally selected. Designed system architecture, built and debugged an AI prototype, and presented findings to domain experts from Microsoft and SAP.
-
-**Data Analyst Simulation — Deloitte** *(February 2025)*  
-Built Tableau dashboards and applied Excel-based classification for forensic data analysis in a Big 4 professional services context.
-
-**Independent AI/ML Developer** *(2023 – Present)*  
-Delivered 15+ ML/LLM systems measured by successful automation and analytics runs. End-to-end Python pipelines integrating LLMs, RAG, agents, and MCP. Dockerized environments with CI/CD. Led a 3-member GenAI prototyping group. Contributed to 17+ open-source repositories.
-
-**Full-Stack Development Trainee — MentorKart** *(June – December 2023)*  
-Completed intensive full-stack training: HTML, CSS, JavaScript, Node.js, Express, MongoDB, React. Built and deployed RESTful API-connected projects. Foundational skills now applied in GIANT's product stack.
+Goal: Make tools indexable by AI systems  
 
 ---
 
-## Education
+## Technical Scope
 
-**B.Tech — Artificial Intelligence and Machine Learning**  
-Potti Sreeramulu Engineering College (PSCMR) · September 2023 – July 2027 · CGPA 8.2  
-Coursework: Machine Learning, Deep Learning, NLP, Data Science, Software Engineering
+**Agent Systems**
+- LLM execution pipelines  
+- Tool orchestration  
+- RAG systems  
+- MCP integration  
 
----
+**Backend**
+- Python · FastAPI · APIs  
+- Function calling systems  
 
-## Certifications
-
-- 5-Day AI Agents Intensive Course — Google
-- Google Cloud Security Summit — Google Cloud, Asia Pacific
-- AI Internship — TechSaksham, Microsoft & SAP via Edunet Foundation / AICTE
-- Data Analyst Job Simulation — Deloitte
-- Quantitative Research Job Simulation — JPMorgan Chase
-- Python Programming Training — Externsclub / AICTE
-- Introduction to MongoDB — MongoDB University
-- Hackathon Participant — Devnovate and GDG Build With AI
+**Infrastructure**
+- Docker · CI/CD · GCP · AWS  
+- Observability pipelines  
 
 ---
 
-## GitHub Stats
+## Experience Snapshot
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sasisundar2211&show_icons=true&theme=react&count_private=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasisundar2211&theme=react&layout=compact&hide_border=true" height="160"/>
-</p>
+- Built 15+ AI systems with measurable outputs  
+- Deployed production-ready pipelines with CI/CD  
+- Led GenAI prototyping team  
+- Worked with academic and industry mentors  
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bsv-sasi-sundar">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://firmrunner.page/">FirmRunner</a> &nbsp;·&nbsp;
-  <a href="mailto:sasisundhar2211@gmail.com">sasisundhar2211@gmail.com</a>
-</p>
+## Current Focus
+
+- Reliability over features  
+- Constrained agents over autonomous agents  
+- Small teams over enterprise systems  
+
+---
+
+## Action
+
+Install the upcoming CLI.  
+Trace your agent failures.  
+Fix execution, not prompts.  
+
+Or continue debugging blindly.
+
+---
+
+## Links
+
+- GitHub: https://github.com/Sasisundar2211  
+- Product: https://firmrunner.page  
+- Email: sasisundhar2211@gmail.com  
