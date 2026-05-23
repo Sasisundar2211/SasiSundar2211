@@ -82,26 +82,6 @@ Chains tools with deterministic execution paths. Built as a reliability testbed 
 
 ---
 
-## What I Ship Next: AgentOps CLI
-
-**Problem:** Teams debug agents manually across logs, prompts, and tools with no structured trace of what actually happened at each step.
-
-**Build:** CLI that traces execution across the full agent loop.
-
-**Target outputs:**
-- Per-step trace logs
-- Tool call validation
-- Failure classification by type
-- Retry impact measurement
-
-**Target benchmarks (not yet measured):**
-- Debugging time: 2 hours → 15 minutes
-- Task success rate improvement: +30 to +80 percent
-
-These are design targets. Results will be published when the CLI ships.
-
----
-
 ## Definition of Done
 
 Every system I ship meets this before it is called done:
