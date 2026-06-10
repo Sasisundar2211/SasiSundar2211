@@ -247,4 +247,4 @@ GitHub:
 https://github.com/Sasisundar2211
 
 Vouqis:
-https://github.com/Vou-qis/vouqis
+https://github.com/Sasisundar2211/Vouqis
