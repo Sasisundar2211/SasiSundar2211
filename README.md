@@ -57,7 +57,7 @@ Detect failures that appear successful.
 
 Repository:
 
-https://github.com/Vou-qis/vouqis
+https://github.com/Sasisundar2211/Vouqis
 
 ---
 
