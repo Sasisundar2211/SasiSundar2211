@@ -1,155 +1,250 @@
 <h1 align="center">Sasi Sundar</h1>
 
 <p align="center">
-  <strong>Building the trust layer for AI agents</strong>
+  <strong>Building reliability infrastructure for AI agents</strong>
 </p>
 
 <p align="center">
-  AI agents fail in production. Logs lie. Retries hide root causes.<br/>
-  I build systems that measure, trace, and fix agent failures at the protocol layer.
+  Founder of Vouqis, a reliability gateway for MCP servers.<br/>
+  Focused on AI agent reliability, MCP infrastructure, observability, and protocol-level failures.
 </p>
 
 <p align="center">
-  <strong>Focus:</strong> MCP Reliability · AgentOps · Observability · Tooling<br/>
-  <strong>Founder:</strong> <a href="https://github.com/Vou-qis/vouqis">Vouqis</a> · GIant
+  <strong>Current Focus:</strong> MCP Reliability · Agent Infrastructure · Observability · AI Systems
 </p>
 
 ---
 
-## Current Build: Vouqis
+# Current Build: Vouqis
 
-MCP server reliability auditing via protocol-layer probes.
+Vouqis is a reliability gateway for MCP servers.
 
-**What it does:** Sends 10 probe types across malformed RPC envelopes, timeout boundaries, and schema edge cases to any MCP server. Returns a Trust Score from 0 to 100.
+AI agents often receive successful responses even when tool outputs are empty, malformed, incomplete, or unusable.
 
-**Real result:** Exa MCP endpoint scored 92/100. Failed on a malformed JSON-RPC envelope missing `id` and `params`. The null-check probes passed.
+Traditional monitoring sees:
 
-**CI/CD gate:**
-```bash
-vouqis audit --url https://your-mcp-server.com --fail-below 80
-# Returns non-zero exit code if Trust Score < 80
-# Wire into your pipeline. Block bad deployments.
+```text
+HTTP 200 OK
 ```
 
-**Run it:** [github.com/Sasisundar2211/Vouqis26](https://github.com/Sasisundar2211/Vouqis26)
+Users experience:
 
----
-
-## Core Thesis
-
-In every production AI system I have built, the majority of failures traced back to the interface layer: malformed tool calls, JSON parsing failures, unhandled retries, and state drift. Not the model. Not the prompt. The protocol.
-
-I build systems that:
-- Probe the protocol layer before failures reach production
-- Surface exactly which tool call, envelope, or schema edge case broke
-- Produce a measurable Trust Score your CI/CD pipeline can gate on
-
----
-
-## Proof of Work
-
-### Procurement Integrity Agent
-Multi-agent system that detects price drift and enforces contract compliance across vendor documents.
-
-**Verified results:**
-- Standardized extraction outputs across varied document formats
-- Reduced manual review cycles per procurement batch
-
-**Tech:** Python · Gemini 1.5 Flash · NLP · FastAPI · Docker · CI/CD
-
-[View Repository](https://github.com/Sasisundar2211/Autonomous-Procurement-AI-System)
-
----
-
-### Multitool Agent System
-Chains tools with deterministic execution paths. Built as a reliability testbed for tool call validation and retry behavior.
-
-**Verified results:**
-- Stable tool execution across multi-step workflows
-- Reusable harness for reliability experiments across agent architectures
-
-**Tech:** FastAPI · Google ADK · LangChain · Tool execution
-
-[View Repository](https://github.com/Sasisundar2211/sample_multitool_agent)
-
----
-
-### Automation Workflows (n8n)
-**Before:** Manual publishing pipeline, ~2 hours per run
-**After:** Automated pipeline, ~10 minutes per run
-
-[View Repository](https://github.com/Sasisundar2211/n8n_Workflows)
-
----
-
-## Definition of Done
-
-Every system I ship meets this before it is called done:
-
-- Runs on a clean machine
-- Dockerized
-- CI pipeline validates execution
-- Measurable success metric included
-- 5-minute install path
-
----
-
-## Technical Scope
-
-**Agent Systems**
-- LLM execution pipelines
-- MCP server integration and reliability testing
-- Tool orchestration and validation
-- RAG systems
-
-**Backend**
-- Python · FastAPI · Function calling systems
-- Protocol-layer instrumentation
-
-**Infrastructure**
-- Docker · CI/CD · GCP · AWS
-- Observability pipelines
-
----
-
-## Experience
-
-- Built 15+ AI systems with production CI/CD and measurable outputs
-- Internship at BITS Pilani Hyderabad
-- Nationally selected: Microsoft and SAP TechSaksham program
-- Co-authored applied IoT research paper
-- Led GenAI prototyping team
-
----
-
-## Principles
-
-- Reliability over features
-- Constrained agents over autonomous agents
-- Measurable outcomes over claimed improvements
-- Kill what does not work rather than ship it
-
----
-
-## Action
-
-Run Vouqis against your MCP server.
-
-```bash
-git clone https://github.com/Sasisundar2211/Vouqis26
-cd Vouqis26
-npm install
-vouqis audit --url https://your-mcp-server.com
+```text
+Task failed
 ```
 
-Get your Trust Score. Find out what your logs are not showing you.
+Vouqis sits between the agent and MCP server and catches these failures before they reach production.
 
-Or keep debugging blindly.
+```text
+Agent
+  ↓
+Vouqis Gateway
+  ↓
+MCP Server
+```
+
+Current capabilities:
+
+* Request validation
+* Response validation
+* Timeout detection
+* Retry logic
+* Structured audit logs
+
+The goal is simple:
+
+Detect failures that appear successful.
+
+Repository:
+
+https://github.com/Vou-qis/vouqis
 
 ---
 
-## Contact
+# Why I'm Working On This
 
-- LinkedIn: [linkedin.com/in/sasi-sundar](https://www.linkedin.com/in/sasi-sundar)
-- Email: sasisundhar2211@gmail.com
-- Vouqis: [github.com/Sasisundar2211/Vouqis26](https://github.com/Sasisundar2211/Vouqis26)
+While building AI agents and automation systems, I repeatedly encountered failures that looked successful.
+
+The tool call succeeded.
+
+Logs showed success.
+
+The agent continued execution.
+
+The user still received a bad result.
+
+The hardest failures were not crashes.
+
+They were failures hidden behind successful responses.
+
+After seeing this pattern repeatedly, I started building tools focused on reliability instead of capability.
+
+---
+
+# Core Thesis
+
+Most AI infrastructure focuses on:
+
+* Better models
+* Better prompts
+* Better orchestration
+
+A large percentage of production failures happen somewhere else:
+
+* Tool calls
+* Protocol boundaries
+* Invalid responses
+* State mismatches
+* Silent failures
+
+Reliability becomes the bottleneck before intelligence does.
+
+---
+
+# Projects
+
+## Vouqis
+
+Reliability gateway for MCP servers.
+
+Focus:
+
+* Response validation
+* Failure detection
+* Reliability enforcement
+* Production observability
+
+Repository:
+
+https://github.com/Vou-qis/vouqis
+
+---
+
+## Procurement Integrity Agent
+
+Multi-agent system designed to detect procurement inconsistencies and support contract compliance workflows.
+
+Highlights:
+
+* Structured document extraction
+* Workflow automation
+* Agent orchestration
+* Reliability-focused execution
+
+Tech:
+
+Python · FastAPI · Gemini · Docker
+
+Repository:
+
+https://github.com/Sasisundar2211/Autonomous-Procurement-AI-System
+
+---
+
+## Multi-Tool Agent System
+
+Experimental environment for studying tool orchestration, retries, execution flow, and agent reliability.
+
+Focus:
+
+* Tool chaining
+* Deterministic execution
+* Agent evaluation
+* Reliability testing
+
+Tech:
+
+FastAPI · Google ADK · LangChain
+
+Repository:
+
+https://github.com/Sasisundar2211/sample_multitool_agent
+
+---
+
+## Automation Workflows
+
+Workflow automation experiments using n8n.
+
+Focus:
+
+* Process automation
+* Operational efficiency
+* Workflow orchestration
+
+Repository:
+
+https://github.com/Sasisundar2211/n8n_Workflows
+
+---
+
+# Technical Interests
+
+## AI Systems
+
+* AI Agents
+* MCP Infrastructure
+* Agent Reliability
+* Tool Orchestration
+* RAG Systems
+* Evaluation Systems
+
+## Backend
+
+* Python
+* FastAPI
+* TypeScript
+* API Systems
+* Reliability Engineering
+
+## Infrastructure
+
+* Docker
+* CI/CD
+* Observability
+* Cloud Deployment
+* Production Monitoring
+
+---
+
+# Operating Principles
+
+* Reliability over features
+* Evidence over assumptions
+* Production reality over local success
+* Customer problems over technical novelty
+* Deterministic systems over hidden behavior
+* Measure outcomes, not activity
+
+---
+
+# Current Mission
+
+Understand why AI agents fail in production and build infrastructure that prevents those failures before they reach users.
+
+---
+
+# Experience
+
+* Founder, Vouqis
+* Final-year B.Tech AIML student
+* Internship at BITS Pilani Hyderabad
+* Microsoft & SAP TechSaksham participant
+* Co-authored applied IoT research paper
+* Built multiple AI systems across automation, agents, and infrastructure
+
+---
+
+# Connect
+
+LinkedIn:
+https://www.linkedin.com/in/sasi-sundar
+
+Email:
+[sasisundhar2211@gmail.com](mailto:sasisundhar2211@gmail.com)
+
+GitHub:
+https://github.com/Sasisundar2211
+
+Vouqis:
+https://github.com/Vou-qis/vouqis
