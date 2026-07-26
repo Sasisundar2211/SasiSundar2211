@@ -110,7 +110,7 @@ Current focus:
 
 # Experience
 
-## Founder — Giant
+## Founder — Vouqis
 
 Building **Vouqis Verify**, an AI Change Verification platform.
 
