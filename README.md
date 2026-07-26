@@ -2,25 +2,22 @@
 
 Building developer tools that help engineering teams ship AI systems with confidence.
 
-Founder of **[Vouqis Verify](https://vouqis.tech)**, an open-source AI Change Verification platform that helps engineering teams review AI-related pull requests by generating deployment evidence directly inside GitHub.
+Founder of **[Vouqis Verify](https://vouqis.tech)**, an open-source AI Change Verification platform that helps engineering teams review AI-related pull requests before deployment.
 
 Final-year B.Tech student in Artificial Intelligence & Machine Learning.
 
-**Links**
-
-- 🌐 https://vouqis.tech
-- 💼 https://www.linkedin.com/in/sasi-sundar
-- 🌍 https://www.sasisundar.me
-- 🐦 https://x.com/SasiSundar09
-- 📧 sasisundhar2211@gmail.com
+🌐 https://vouqis.tech  
+💼 https://www.linkedin.com/in/sasi-sundar  
+🌍 https://www.sasisundar.me  
+📧 sasisundhar2211@gmail.com
 
 ---
 
 # What I'm Building
 
-### Vouqis Verify
+## Vouqis Verify
 
-Engineering teams frequently modify:
+Engineering teams frequently change:
 
 - prompts
 - models
@@ -29,7 +26,7 @@ Engineering teams frequently modify:
 - tool integrations
 - MCP servers
 
-Passing automated evaluations does not necessarily mean those changes are ready for deployment.
+Passing automated evaluations does not necessarily mean an AI change is ready to deploy.
 
 Vouqis Verify helps engineering teams review AI-related pull requests by generating deployment evidence directly inside GitHub.
 
@@ -44,17 +41,16 @@ Current public implementation includes:
 - Pull request recommendations
 - Automated test suite
 
-Repository:
-
+🔗 Repository:
 https://github.com/Sasisundar2211/Vouqis-Verify
 
 ---
 
 # Engineering Interests
 
-I'm primarily interested in building developer infrastructure for modern AI systems.
+I'm interested in building infrastructure and developer tooling for modern AI systems.
 
-Current areas of focus:
+Current focus:
 
 - AI Engineering
 - AI Developer Tools
@@ -73,27 +69,27 @@ Current areas of focus:
 |---------|-------------|
 | **Vouqis Verify** | AI Change Verification for GitHub pull requests |
 | **Autonomous Procurement AI** | Multi-agent procurement workflow |
-| **Multi-Tool Agent** | Experiments with tool orchestration and agent reliability |
-| **n8n Workflows** | Workflow automation and integrations |
+| **Multi-Tool Agent** | Agent orchestration experiments |
+| **n8n Workflows** | Workflow automation |
 
 ---
 
 # Technical Stack
 
-### Languages
+## Languages
 
-- TypeScript
 - Python
+- TypeScript
 - JavaScript
 - SQL
 
-### Frameworks
+## Frameworks
 
 - FastAPI
 - Node.js
 - Next.js
 
-### AI
+## AI
 
 - Large Language Models
 - AI Agents
@@ -102,59 +98,50 @@ Current areas of focus:
 - Google ADK
 - Retrieval-Augmented Generation (RAG)
 
-### Infrastructure
+## Developer Infrastructure
 
+- GitHub Apps
 - GitHub Actions
+- REST APIs
 - Supabase
 - Vercel
-- REST APIs
 
 ---
 
 # Experience
 
-## Founder — Giant (May 2026 – Present)
+## Founder — Giant
 
-Building Vouqis Verify.
+Building **Vouqis Verify**, an AI Change Verification platform.
 
-Current work includes:
+Current engineering work includes:
 
-- AI change detection
 - GitHub App development
 - GitHub Action development
 - CLI development
-- deployment evidence generation
-- developer tooling
-- customer discovery
-- product engineering
-
----
-
-## Founder — FirmRunner (Dec 2025 – Apr 2026)
-
-Built an AI onboarding platform for CPA firms.
-
-Shut the company down after discovering the workflow could not consistently meet the reliability requirements of compliance-heavy onboarding.
-
-The engineering lessons from FirmRunner directly influenced the creation of Vouqis Verify.
+- AI change detection
+- Deployment evidence generation
+- Pull request recommendations
+- Evaluation workflow integration
+- Developer tooling
 
 ---
 
 ## AI / ML Intern — BITS Pilani Hyderabad
 
-Worked on production ML pipelines, regression and classification models, and research.
+Worked on production ML pipelines, regression and classification models, and academic research.
 
 ---
 
 ## AI Intern — TechSaksham (Microsoft × SAP × AICTE)
 
-Selected for the TechSaksham AI program and developed an AI solution presented to domain experts.
+Developed an AI solution as part of the national TechSaksham program.
 
 ---
 
 ## Research Intern — BITS Pilani
 
-Worked on machine learning models for IoT data streams and contributed to academic research.
+Worked on machine learning models for IoT data streams and contributed to research.
 
 ---
 
@@ -165,7 +152,7 @@ Artificial Intelligence & Machine Learning
 
 Potti Sreeramulu Engineering College
 
-2023 – 2027
+2023–2027
 
 ---
 
@@ -184,7 +171,7 @@ Potti Sreeramulu Engineering College
 
 - AI Infrastructure
 - AI Evaluation
-- Agent Engineering
+- AI Agents
 - MCP Ecosystem
 - Developer Tooling
 - GitHub Developer Platform
@@ -192,8 +179,6 @@ Potti Sreeramulu Engineering College
 ---
 
 # Open To
-
-I'm interested in opportunities as:
 
 - AI Engineer
 - Applied AI Engineer
