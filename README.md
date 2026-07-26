@@ -1,123 +1,210 @@
-# Sasi Sundar
+# Hi, I'm Sasi Sundar 👋
 
-Building reliability infrastructure for AI agents.
+Building developer tools that help engineering teams ship AI systems with confidence.
 
-Founder @ Giant · **[Vouqis](https://vouqis.tech)**, a reliability gateway for MCP servers · Final-year B.Tech AI & ML
+Founder of **[Vouqis Verify](https://vouqis.tech)**, an open-source AI Change Verification platform that helps engineering teams review AI-related pull requests by generating deployment evidence directly inside GitHub.
 
-[vouqis.tech](https://vouqis.tech) &nbsp;·&nbsp; [sasisundar.me](https://www.sasisundar.me) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/sasi-sundar) &nbsp;·&nbsp; [x.com](https://x.com/SasiSundar09) &nbsp;·&nbsp; [sasisundhar2211@gmail.com](mailto:sasisundhar2211@gmail.com)
+Final-year B.Tech student in Artificial Intelligence & Machine Learning.
 
----
+**Links**
 
-## The Problem
-
-MCP agents fail silently.
-
-The server returns `HTTP 200`. Your monitoring stays green. Your agent executes on null data. A customer finds the broken result three days later.
-
-I killed my previous company — FirmRunner, an AI onboarding system for CPA firms — when task success never crossed 85%. The failure mode wasn't bad models. It was the gap at the protocol boundary: what the tool returned and what the agent assumed were different. I built Vouqis to close that gap.
+- 🌐 https://vouqis.tech
+- 💼 https://www.linkedin.com/in/sasi-sundar
+- 🌍 https://www.sasisundar.me
+- 🐦 https://x.com/SasiSundar09
+- 📧 sasisundhar2211@gmail.com
 
 ---
 
-## Currently Building
+# What I'm Building
 
-### [Vouqis](https://vouqis.tech) — Reliability Gateway for MCP Servers
+### Vouqis Verify
 
-```
-Agent → Vouqis → MCP Server
-```
+Engineering teams frequently modify:
 
-Sits between your agent and every MCP server. Validates every request. Blocks null and malformed responses before they reach your agent. Enforces timeouts. Retries transient failures. Logs every decision as a structured audit event.
+- prompts
+- models
+- retrieval pipelines
+- AI agents
+- tool integrations
+- MCP servers
 
-```bash
-npx @vouqis/cli proxy \
-  --upstream https://your-mcp-server.com \
-  --timeout 5000 \
-  --retry 2
-```
+Passing automated evaluations does not necessarily mean those changes are ready for deployment.
 
-One command. No SDK changes. No server modifications.
+Vouqis Verify helps engineering teams review AI-related pull requests by generating deployment evidence directly inside GitHub.
 
-**Live test against Exa's production MCP endpoint:**
+Current public implementation includes:
 
-```
-malformed request  →  blocked in 4ms   (before any network call)
-invalid request    →  blocked in 0ms   (before any network call)
-valid request      →  passed through, real results returned
-```
+- GitHub App
+- GitHub Action
+- Public CLI
+- AI change detection
+- Deployment risk classification
+- Review Package generation
+- Pull request recommendations
+- Automated test suite
 
-**1,839 npm downloads** &nbsp;·&nbsp; Open source → [Sasisundar2211/Vouqis](https://github.com/Sasisundar2211/Vouqis)
+Repository:
+
+https://github.com/Sasisundar2211/Vouqis-Verify
 
 ---
 
-## Engineering Principles
+# Engineering Interests
 
-- Reliability over features
+I'm primarily interested in building developer infrastructure for modern AI systems.
+
+Current areas of focus:
+
+- AI Engineering
+- AI Developer Tools
+- AI Change Verification
+- AI Agents
+- Model Context Protocol (MCP)
+- GitHub Automation
+- Developer Experience
+- Reliability Engineering
+
+---
+
+# Selected Projects
+
+| Project | Description |
+|---------|-------------|
+| **Vouqis Verify** | AI Change Verification for GitHub pull requests |
+| **Autonomous Procurement AI** | Multi-agent procurement workflow |
+| **Multi-Tool Agent** | Experiments with tool orchestration and agent reliability |
+| **n8n Workflows** | Workflow automation and integrations |
+
+---
+
+# Technical Stack
+
+### Languages
+
+- TypeScript
+- Python
+- JavaScript
+- SQL
+
+### Frameworks
+
+- FastAPI
+- Node.js
+- Next.js
+
+### AI
+
+- Large Language Models
+- AI Agents
+- MCP
+- LangChain
+- Google ADK
+- Retrieval-Augmented Generation (RAG)
+
+### Infrastructure
+
+- GitHub Actions
+- Supabase
+- Vercel
+- REST APIs
+
+---
+
+# Experience
+
+## Founder — Giant (May 2026 – Present)
+
+Building Vouqis Verify.
+
+Current work includes:
+
+- AI change detection
+- GitHub App development
+- GitHub Action development
+- CLI development
+- deployment evidence generation
+- developer tooling
+- customer discovery
+- product engineering
+
+---
+
+## Founder — FirmRunner (Dec 2025 – Apr 2026)
+
+Built an AI onboarding platform for CPA firms.
+
+Shut the company down after discovering the workflow could not consistently meet the reliability requirements of compliance-heavy onboarding.
+
+The engineering lessons from FirmRunner directly influenced the creation of Vouqis Verify.
+
+---
+
+## AI / ML Intern — BITS Pilani Hyderabad
+
+Worked on production ML pipelines, regression and classification models, and research.
+
+---
+
+## AI Intern — TechSaksham (Microsoft × SAP × AICTE)
+
+Selected for the TechSaksham AI program and developed an AI solution presented to domain experts.
+
+---
+
+## Research Intern — BITS Pilani
+
+Worked on machine learning models for IoT data streams and contributed to academic research.
+
+---
+
+# Education
+
+**B.Tech**
+Artificial Intelligence & Machine Learning
+
+Potti Sreeramulu Engineering College
+
+2023 – 2027
+
+---
+
+# Engineering Principles
+
 - Evidence over opinions
+- Reliability over features
+- Build in public
 - No silent failures
-- Work is done when verified, not when shipped
+- Work is done when verified
 - Customer pain before founder excitement
 
 ---
 
-## Selected Projects
+# Currently Exploring
 
-| Project | What | Stack |
-|---|---|---|
-| **[Vouqis](https://github.com/Sasisundar2211/Vouqis)** | MCP Reliability Gateway | TypeScript · Node.js · oclif · Vercel · GitHub Actions |
-| **[Procurement AI](https://github.com/Sasisundar2211/Autonomous-Procurement-AI-System)** | Multi-agent procurement integrity | Python · FastAPI · Gemini |
-| **[Multi-Tool Agent](https://github.com/Sasisundar2211/sample_multitool_agent)** | Tool orchestration & reliability experiments | FastAPI · Google ADK · LangChain |
-| **[n8n Workflows](https://github.com/Sasisundar2211/n8n_Workflows)** | Workflow automation | n8n |
-
----
-
-## Technical Focus
-
-**Languages** — TypeScript · Python · JavaScript · SQL  
-**AI & Agents** — MCP Protocol · Gemini Flash · LangChain · Google ADK · Agent Systems  
-**Infrastructure** — Node.js · Next.js · Supabase · Vercel · GitHub Actions  
-**Observability** — Audit Logging · Protocol Validation · Request Tracing · Timeout Enforcement
+- AI Infrastructure
+- AI Evaluation
+- Agent Engineering
+- MCP Ecosystem
+- Developer Tooling
+- GitHub Developer Platform
 
 ---
 
-## Experience
+# Open To
 
-**Giant** — Founder *(May 2026 – Present)*  
-Vouqis: protocol design, reliability instrumentation, eval pipeline architecture, technical sales to early customers.  
-Stack: TypeScript · Node.js · Next.js · oclif · Supabase · Vercel · GitHub Actions
+I'm interested in opportunities as:
 
-**FirmRunner** — Founder *(Dec 2025 – Apr 2026, killed)*  
-AI client onboarding for CPA firms. 5 AI agents, Supabase, Gemini Flash. Full PRD, pitch deck, discovery calls with firm owners. Killed when task success never hit 85% — compliance workflows too variable for the pipeline design. That gap became Vouqis.
+- AI Engineer
+- Applied AI Engineer
+- AI Infrastructure Engineer
+- Forward Deployed Engineer
+- Software Engineer (AI)
 
-**BITS Pilani, Hyderabad** — AI/ML Intern *(May–Jul 2025)*  
-Production ML pipelines, classification and regression models. Improved model accuracy 18% via hyperparameter tuning. Co-authored academic research.
-
-**Edunet Foundation / TechSaksham** — AI Intern *(Feb–Mar 2025)*  
-Nationally selected (Microsoft & SAP via AICTE). Built and presented a functional AI prototype to domain experts.
-
-**BITS Pilani** — Research Intern *(Jun–Aug 2024)*  
-ML models on IoT data streams. Co-authored research paper.
-
-**MentorKart** — Fullstack Trainee *(Jun–Dec 2023)*  
-Node.js · Express · MongoDB · React — foundational stack, now used in production.
+Remote • Hybrid • On-site
 
 ---
 
-## Education
-
-**Potti Sreeramulu Engineering College** — B.Tech, Artificial Intelligence & Machine Learning *(2023–2027)*
-
----
-
-## Certifications
-
-5-Day AI Agents Intensive · Google &nbsp;·&nbsp; AI: Transformative Learning · TechSaksham (Microsoft & SAP) &nbsp;·&nbsp; Google Cloud Security Summit (Asia Pacific) &nbsp;·&nbsp; Introduction to MongoDB &nbsp;·&nbsp; Python Programming Training
-
----
-
-## Open To
-
-AI Infrastructure · Agent Reliability · Forward Deployed Engineer roles · Remote-first
-
----
-
-*Intelligence gets attention. Reliability earns trust.*
+> Intelligence gets attention.
+>
+> Reliability earns trust.
